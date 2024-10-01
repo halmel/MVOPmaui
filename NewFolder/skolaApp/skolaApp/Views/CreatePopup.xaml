@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolkit:Popup xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+               xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+               x:Class="skolaApp.Views.CreatePopup">
+
+    <VerticalStackLayout>
+        <Label Text="This is a very important message!" />
+        <VerticalStackLayout Spacing="10" Margin="5">
+            <Editor x:Name="JmenoEditor"
+                Placeholder="Enter your note"
+                Text="{Binding Text}"
+                HeightRequest="100" />
+            <Editor x:Name="PrijmenýEditor"
+            Placeholder="Enter your note"
+            Text="{Binding Text}"
+            HeightRequest="100" />
+            <Picker x:Name="picker"
+            Title="Select a monkey">
+            </Picker>
+
+
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="4">
+                <Button Text="Save"
+                    Clicked="SaveButton_Clicked" />
+
+                <Button Grid.Column="1"
+                    Text="Delete"
+                    Clicked="DeleteButton_Clicked" />
+            </Grid>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+
+</toolkit:Popup>
+

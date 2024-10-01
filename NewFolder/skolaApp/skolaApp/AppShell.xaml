@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="skolaApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:skolaApp"
+        xmlns:Views="clr-namespace:skolaApp.Views"
+    Shell.FlyoutBehavior="Disabled">
+    <FlyoutItem Title="Home">
+        <Tab>
+            <ShellContent
+        Title="dasddadadas"
+        ContentTemplate="{DataTemplate Views:Zamestanci}"
+        Route="MainPage" />
+            <ShellContent
+        Title="daadsdasdadas"
+        ContentTemplate="{DataTemplate Views:Zamestanci}"
+        Route="MainPage" />
+        </Tab>
+    </FlyoutItem>
+
+
+</Shell>
