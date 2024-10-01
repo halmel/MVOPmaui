@@ -5,18 +5,28 @@
                x:Class="skolaApp.Views.CreatePopup">
 
     <VerticalStackLayout>
-        <Label Text="This is a very important message!" />
+        <Label Text="vytvoř nového zaměstnance" />
         <VerticalStackLayout Spacing="10" Margin="5">
+            <Label>Jmeno</Label>
             <Editor x:Name="JmenoEditor"
                 Placeholder="Enter your note"
                 Text="{Binding Text}"
                 HeightRequest="100" />
-            <Editor x:Name="PrijmenýEditor"
+            <Label>Prijmení</Label>
+            <Editor x:Name="PrijmenyEditor"
             Placeholder="Enter your note"
             Text="{Binding Text}"
             HeightRequest="100" />
-            <Picker x:Name="picker"
-            Title="Select a monkey">
+            <Label>Obor</Label>
+            <Picker x:Name="OborPicker">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>1</x:String>
+                        <x:String>2</x:String>
+                        <x:String>3</x:String>
+                        <x:String>4</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
             </Picker>
 
 

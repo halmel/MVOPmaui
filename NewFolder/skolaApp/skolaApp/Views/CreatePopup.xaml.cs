@@ -5,26 +5,31 @@ public partial class CreatePopup : Popup
 {
     public CreatePopup()
     {
+
+
+
         InitializeComponent();
 
-
-
-
-        Picker picker = new Picker { Title = "Select a monkey" };
-        var OborList = new List<string>();
-        OborList.Add("Baboon");
-        OborList.Add("Capuchin Monkey");
-        OborList.Add("Blue Monkey");
-        OborList.Add("Squirrel Monkey");
-        OborList.Add("Golden Lion Tamarin");
-        OborList.Add("Howler Monkey");
-        OborList.Add("Japanese Macaque");
-        picker.ItemsSource = OborList;
-    picker.SetBinding(Picker.ItemsSourceProperty, "Zamestanec");
-    picker.ItemDisplayBinding = new Binding("Obor");
     }
-    private void SaveButton_Clicked(object sender, EventArgs e)
+    //private void LoadNote(string fileName)
+    //{
+    //    Models.Note noteModel = new Models.Note();
+    //    noteModel.Filename = fileName;
+
+    //    if (File.Exists(fileName))
+    //    {
+    //        noteModel.Date = File.GetCreationTime(fileName);
+    //        noteModel.Text = File.ReadAllText(fileName);
+    //    }
+
+    //    BindingContext = noteModel;
+    //}
+    private async void SaveButton_Clicked(object sender, EventArgs e)
     {
+        if (BindingContext is Models.Zamestanec note)
+            File.WriteAllText(note.FileName, JmenoEditor.Text+","+PrijmenyEditor.Text+","+OborPicker.SelectedItem.ToString());
+
+        await Shell.Current.GoToAsync("..");
     }
     private void DeleteButton_Clicked(object sender, EventArgs e)
     {
