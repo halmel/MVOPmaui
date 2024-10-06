@@ -2,31 +2,36 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="skolaApp.Views.Zamestanci"
-             Title="Zanestnanci">
+            xmlns:models="clr-namespace:skolaApp.Models"
+             Title="Zanestanci">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Clicked="OnAddClicked" IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}" />
     </ContentPage.ToolbarItems>
+    <ContentPage.BindingContext>
+        <models:Zamestanec />
+    </ContentPage.BindingContext>
 
-    <!-- Display notes in a list --><!--
+    <!--Display notes in a list-->
     <CollectionView x:Name="notesCollection"
-                        ItemsSource="{Binding Notes}"
+                        ItemsSource="{Binding Zamestanecs}"
                         Margin="20"
                         SelectionMode="Single"
                         SelectionChanged="notesCollection_SelectionChanged">
 
-        --><!-- Designate how the collection of items are laid out --><!--
+        <!--Designate how the collection of items are laid out--> 
         <CollectionView.ItemsLayout>
             <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
         </CollectionView.ItemsLayout>
 
-        --><!-- Define the appearance of each item in the list --><!--
+         <!--Define the appearance of each item in the list--> 
         <CollectionView.ItemTemplate>
             <DataTemplate>
                 <StackLayout>
-                    <Label Text="{Binding Text}" FontSize="22"/>
-                    <Label Text="{Binding Date}" FontSize="14" TextColor="Silver"/>
+                    <Label Text="{Binding Jmeno}" FontSize="22"/>
+                    <Label Text="{Binding Prijmeny}" FontSize="22"/>
+                    <Label Text="{Binding Obor}" FontSize="14"/>
                 </StackLayout>
             </DataTemplate>
         </CollectionView.ItemTemplate>
-    </CollectionView>-->
+    </CollectionView>
 </ContentPage>

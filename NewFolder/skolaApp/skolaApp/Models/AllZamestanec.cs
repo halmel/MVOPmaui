@@ -10,13 +10,13 @@ namespace skolaApp.Models
 {
     internal class AllZamestanec
     {
-        public ObservableCollection<Zamestanec> Zamestanec { get; set; }
-        public AllZamestanec(string o) =>
-        LoadZamestanec(o);
+        public ObservableCollection<Zamestanec> Zamestanecs { get; set; } = new ObservableCollection<Zamestanec>();
+        public AllZamestanec(string d) =>
+        LoadZamestanec(d);
 
         public void LoadZamestanec(string d)
         {
-            Zamestanec.Clear();
+            Zamestanecs.Clear();
 
             // Get the folder where the notes are stored.
             string appDataPath = FileSystem.AppDataDirectory;
@@ -25,26 +25,27 @@ namespace skolaApp.Models
             IEnumerable<Zamestanec> zamestanecs = Directory
 
                                         // Select the file names from the directory
-                                        .EnumerateFiles(appDataPath, "*.Zamestanec.txt")
+                                        .GetFiles(appDataPath, "*")
 
             // Each file name is used to create a new Note
-                                        .Select(filename => new Zamestanec()
+                                        .Select(fileName => new Zamestanec()
                                         {
-                                            FileName = filename,
-                                            Jmeno = File.ReadAllText(filename).Split(',')[0],
-                                            Prijmeny = File.ReadAllText(filename).Split(',')[1],
-                                            Obor = File.ReadAllText(filename).Split(',')[2],
+                                            FileName = fileName,
+                                            Jmeno = File.ReadAllText(fileName).Split(',')[0],
+                                            Prijmeny = File.ReadAllText(fileName).Split(',')[1],
+                                            Obor = File.ReadAllText(fileName).Split(',')[2],
                                         }); 
                                         
-
+            
                                         // With the final collection of notes, order them by date
                                        
 
             // Add each note into the ObservableCollection
-            foreach (Zamestanec zamestanec in Zamestanec)
+            foreach (Zamestanec zamestanec in zamestanecs)
                 if (zamestanec.Obor == d || d.Length == 0)
                 {
-                  Zamestanec.Add(zamestanec);
+                        Zamestanecs.Add(zamestanec);
+                    
 
                 }
         }

@@ -54,6 +54,18 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="Views\Studenti.xaml.cs">
+	    <DependentUpon>Studenti.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\Podpora.xaml.cs">
+	    <DependentUpon>Podpora.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\Udrzbari.xaml.cs">
+	    <DependentUpon>Udrzbari.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\Ucitele.xaml.cs">
+	    <DependentUpon>Ucitele.xaml</DependentUpon>
+	  </Compile>
 	  <Compile Update="Views\Zamestnanci.xaml.cs">
 	    <DependentUpon>Zamestnanci.xaml</DependentUpon>
 	  </Compile>
@@ -61,6 +73,18 @@
 
 	<ItemGroup>
 	  <MauiXaml Update="Views\CreatePopup.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Studenti.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Podpora.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Udrzbari.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\Ucitele.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\Zamestnanci.xaml">

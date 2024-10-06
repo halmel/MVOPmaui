@@ -9,13 +9,25 @@
     <FlyoutItem Title="Home">
         <Tab>
             <ShellContent
-        Title="dasddadadas"
+        Title="Zamestanci"
         ContentTemplate="{DataTemplate Views:Zamestanci}"
         Route="MainPage" />
             <ShellContent
-        Title="daadsdasdadas"
-        ContentTemplate="{DataTemplate Views:Zamestanci}"
-        Route="MainPage" />
+        Title="Ucitele"
+        ContentTemplate="{DataTemplate Views:Ucitele}"
+        Route="Ucitele" />
+            <ShellContent
+        Title="Udrzbari"
+        ContentTemplate="{DataTemplate Views:Udrzbari}"
+        Route="Udrzbari" />
+            <ShellContent
+        Title="Podpora"
+        ContentTemplate="{DataTemplate Views:Podpora}"
+        Route="Podpora" />
+            <ShellContent
+        Title="Studenti"
+        ContentTemplate="{DataTemplate Views:Studenti}"
+        Route="Studenti" />
         </Tab>
     </FlyoutItem>
 
