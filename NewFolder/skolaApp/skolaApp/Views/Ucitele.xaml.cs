@@ -15,9 +15,10 @@ public partial class Ucitele : ContentPage
         ((Models.AllZamestanec)BindingContext).LoadZamestanec("Uèitelé");
     }
 
-    private void OnAddClicked(object sender, EventArgs e)
+    private async void OnAddClicked(object sender, EventArgs e)
     {
-        this.ShowPopup(new CreatePopup());
+        var result = await this.ShowPopupAsync((new CreatePopup("")));
+        ((Models.AllZamestanec)BindingContext).LoadZamestanec("");
     }
     private async void notesCollection_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
@@ -27,8 +28,9 @@ public partial class Ucitele : ContentPage
             var note = (Models.Zamestanec)e.CurrentSelection[0];
 
             // Should navigate to "NotePage?ItemId=path\on\device\XYZ.notes.txt"
-            await Shell.Current.GoToAsync($"{nameof(CreatePopup)}?{nameof(CreatePopup.ItemId)}={note.FileName}");
 
+            var result = await this.ShowPopupAsync(new CreatePopup(note.FileName));
+            ((Models.AllZamestanec)BindingContext).LoadZamestanec("");
             // Unselect the UI
             notesCollection.SelectedItem = null;
         }

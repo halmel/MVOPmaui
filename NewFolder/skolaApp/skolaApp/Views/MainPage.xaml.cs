@@ -13,7 +13,7 @@ namespace skolaApp.Views
 
         private void OnCounterClicked(object sender, EventArgs e)
         {
-                this.ShowPopup(new CreatePopup());
+                this.ShowPopup(new CreatePopup(""));
         }
     }
 }

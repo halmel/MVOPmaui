@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="skolaApp.Views.Zamestanci"
             xmlns:models="clr-namespace:skolaApp.Models"
-             Title="Zanestanci">
+             Title="Zaměstnanci">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Clicked="OnAddClicked" IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}" />
     </ContentPage.ToolbarItems>

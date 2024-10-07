@@ -9,16 +9,44 @@ public partial class CreatePopup : Popup
     {
         set { LoadNote(value); }
     }
-    public CreatePopup()
+    public CreatePopup(string d)
     {
 
 
-
         InitializeComponent();
+        if (d.Length == 0)
+        {
         string appDataPath = FileSystem.AppDataDirectory;
         string randomFileName = $"{Path.GetRandomFileName()}.Zamestanec.txt";
-
         LoadNote(Path.Combine(appDataPath, randomFileName));
+
+        }
+        else
+        {
+            LoadNote(d);
+            if (BindingContext is Models.Zamestanec note)
+            {
+                JmenoEditor.Text = note.Jmeno;
+                PrijmenyEditor.Text = note.Prijmeny;
+                switch (note.Obor)
+                {
+                    case "Uèitelé":
+                        OborPicker.SelectedIndex = 0;
+                        break;
+                    case "Údržbáøi":
+                        OborPicker.SelectedIndex = 1;
+                        break;
+                    case "Podpora":
+                        OborPicker.SelectedIndex = 2;
+                        break;
+                    case "Studenti":
+                        OborPicker.SelectedIndex = 3;
+                        break;
+    
+                }
+
+            }
+        }
 
     }
     private void LoadNote(string fileName)
@@ -44,6 +72,8 @@ public partial class CreatePopup : Popup
     }
     private void DeleteButton_Clicked(object sender, EventArgs e)
     {
-
+        if (BindingContext is Models.Zamestanec note)
+            File.Delete(note.FileName);
+        this.Close();
     }
 }

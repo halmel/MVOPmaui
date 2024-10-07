@@ -3,64 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\studenti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\studenti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\studenti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\studenti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\podpora.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\podpora.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\podpora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\podpora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\udrzbari.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\udrzbari.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\udrzbari.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\udrzbari.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\ucitele.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\ucitele.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\models\\allzamestanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\models\\allzamestanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\createpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\createpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\createpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\createpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\ucitele.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\ucitele.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\zamestnanci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\zamestnanci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\zamestnanci.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\zamestnanci.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\createpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\createpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\zamestnanci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\zamestnanci.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\udrzbari.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\udrzbari.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\ucitele.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\ucitele.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\udrzbari.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\udrzbari.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\ucitele.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\ucitele.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\podpora.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\podpora.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\studenti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\studenti.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\studenti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\studenti.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\podpora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\podpora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\models\\allzamestanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\models\\allzamestanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\models\\zamestanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\models\\zamestanec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|solutionrelative:skolaapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E0C905-4D4F-4C30-B4EE-EC3731BA5C31}|skolaApp\\skolaApp.csproj|c:\\users\\tigo\\source\\repos\\halmel\\mvopmaui\\newfolder\\skolaapp\\skolaapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,58 +97,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Studenti.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml.cs",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Studenti.xaml.cs",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml.cs",
-              "RelativeToolTip": "skolaApp\\Views\\Studenti.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:19:47.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Studenti.xaml",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Studenti.xaml",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml",
-              "RelativeToolTip": "skolaApp\\Views\\Studenti.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-06T19:19:31.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Podpora.xaml.cs",
               "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Podpora.xaml.cs",
               "RelativeDocumentMoniker": "skolaApp\\Views\\Podpora.xaml.cs",
               "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Podpora.xaml.cs",
               "RelativeToolTip": "skolaApp\\Views\\Podpora.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T19:17:19.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Podpora.xaml",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Podpora.xaml",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Podpora.xaml",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Podpora.xaml",
-              "RelativeToolTip": "skolaApp\\Views\\Podpora.xaml",
+              "DocumentIndex": 6,
+              "Title": "Ucitele.xaml",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Ucitele.xaml",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml",
+              "RelativeToolTip": "skolaApp\\Views\\Ucitele.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-06T19:16:51.092Z",
+              "WhenOpened": "2024-10-06T19:05:03.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "skolaApp\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:12:40.878Z",
               "EditorCaption": ""
             },
             {
@@ -159,14 +146,40 @@
               "RelativeDocumentMoniker": "skolaApp\\Views\\Udrzbari.xaml.cs",
               "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Udrzbari.xaml.cs",
               "RelativeToolTip": "skolaApp\\Views\\Udrzbari.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T19:15:47.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "CreatePopup.xaml",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\CreatePopup.xaml",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml",
+              "RelativeToolTip": "skolaApp\\Views\\CreatePopup.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T11:12:40.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zamestnanci.xaml",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Zamestnanci.xaml",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml",
+              "RelativeToolTip": "skolaApp\\Views\\Zamestnanci.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T11:12:40.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Udrzbari.xaml",
               "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Udrzbari.xaml",
               "RelativeDocumentMoniker": "skolaApp\\Views\\Udrzbari.xaml",
@@ -179,46 +192,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ucitele.xaml",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Ucitele.xaml",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml",
-              "RelativeToolTip": "skolaApp\\Views\\Ucitele.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-06T19:05:03.246Z",
+              "DocumentIndex": 4,
+              "Title": "CreatePopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml.cs",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\CreatePopup.xaml.cs",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml.cs",
+              "RelativeToolTip": "skolaApp\\Views\\CreatePopup.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:12:40.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Zamestnanci.xaml",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Zamestnanci.xaml",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml",
-              "RelativeToolTip": "skolaApp\\Views\\Zamestnanci.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Zamestnanci.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml.cs",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Zamestnanci.xaml.cs",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml.cs",
+              "RelativeToolTip": "skolaApp\\Views\\Zamestnanci.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:12:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "skolaApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\AppShell.xaml",
+              "RelativeToolTip": "skolaApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-05T11:12:40.871Z",
+              "WhenOpened": "2024-10-05T11:12:40.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Studenti.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml.cs",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Studenti.xaml.cs",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml.cs",
+              "RelativeToolTip": "skolaApp\\Views\\Studenti.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:19:47.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AllZamestanec.cs",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Models\\AllZamestanec.cs",
-              "RelativeDocumentMoniker": "skolaApp\\Models\\AllZamestanec.cs",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Models\\AllZamestanec.cs",
-              "RelativeToolTip": "skolaApp\\Models\\AllZamestanec.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAWwC8AAAAUAAAAAAAAAA==",
+              "Title": "Ucitele.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml.cs",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Ucitele.xaml.cs",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml.cs",
+              "RelativeToolTip": "skolaApp\\Views\\Ucitele.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:12:40.891Z",
+              "WhenOpened": "2024-10-06T19:04:02.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Zamestanec.cs",
               "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Models\\Zamestanec.cs",
               "RelativeDocumentMoniker": "skolaApp\\Models\\Zamestanec.cs",
@@ -231,98 +270,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "skolaApp\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\AppShell.xaml",
-              "RelativeToolTip": "skolaApp\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-05T11:12:40.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Ucitele.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml.cs",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Ucitele.xaml.cs",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Ucitele.xaml.cs",
-              "RelativeToolTip": "skolaApp\\Views\\Ucitele.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "AllZamestanec.cs",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Models\\AllZamestanec.cs",
+              "RelativeDocumentMoniker": "skolaApp\\Models\\AllZamestanec.cs",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Models\\AllZamestanec.cs",
+              "RelativeToolTip": "skolaApp\\Models\\AllZamestanec.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAWwC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:04:02.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreatePopup.xaml",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\CreatePopup.xaml",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml",
-              "RelativeToolTip": "skolaApp\\Views\\CreatePopup.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-05T11:12:40.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreatePopup.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml.cs",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\CreatePopup.xaml.cs",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\CreatePopup.xaml.cs",
-              "RelativeToolTip": "skolaApp\\Views\\CreatePopup.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:12:40.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Zamestnanci.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml.cs",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\Zamestnanci.xaml.cs",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Zamestnanci.xaml.cs",
-              "RelativeToolTip": "skolaApp\\Views\\Zamestnanci.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:12:40.87Z",
+              "WhenOpened": "2024-10-05T11:12:40.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Podpora.xaml",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Podpora.xaml",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Podpora.xaml",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Podpora.xaml",
+              "RelativeToolTip": "skolaApp\\Views\\Podpora.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T19:16:51.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Studenti.xaml",
+              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml",
+              "RelativeDocumentMoniker": "skolaApp\\Views\\Studenti.xaml",
+              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\Studenti.xaml",
+              "RelativeToolTip": "skolaApp\\Views\\Studenti.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T19:19:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\MainPage.xaml",
               "RelativeDocumentMoniker": "skolaApp\\Views\\MainPage.xaml",
               "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\MainPage.xaml",
               "RelativeToolTip": "skolaApp\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-05T11:12:40.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "skolaApp\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "skolaApp\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:12:40.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\App.xaml",
               "RelativeDocumentMoniker": "skolaApp\\App.xaml",
@@ -350,9 +350,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "skolaApp.csproj",
-              "DocumentMoniker": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\TIGO\\Source\\Repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
               "RelativeDocumentMoniker": "skolaApp\\skolaApp.csproj",
-              "ToolTip": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
+              "ToolTip": "C:\\Users\\TIGO\\Source\\Repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
               "RelativeToolTip": "skolaApp\\skolaApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -380,7 +380,8 @@
               "RelativeToolTip": "skolaApp\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:12:40.893Z"
+              "WhenOpened": "2024-10-05T11:12:40.893Z",
+              "EditorCaption": ""
             }
           ]
         }

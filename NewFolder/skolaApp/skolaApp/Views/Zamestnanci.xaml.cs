@@ -15,9 +15,12 @@ public partial class Zamestanci : ContentPage
         ((Models.AllZamestanec)BindingContext).LoadZamestanec("");
     }
 
-    private void OnAddClicked(object sender, EventArgs e)
+    private async void OnAddClicked(object sender, EventArgs e)
     {
-        this.ShowPopup(new CreatePopup());
+        var result = await this.ShowPopupAsync((new CreatePopup("")));
+        ((Models.AllZamestanec)BindingContext).LoadZamestanec("");
+        // Code to execute when the popup is closed
+        // This runs after the popup is closed
     }
     private async void notesCollection_SelectionChanged(object sender, SelectionChangedEventArgs e)
     {
@@ -27,10 +30,10 @@ public partial class Zamestanci : ContentPage
             var note = (Models.Zamestanec)e.CurrentSelection[0];
 
             // Should navigate to "NotePage?ItemId=path\on\device\XYZ.notes.txt"
-            await Shell.Current.GoToAsync($"{nameof(CreatePopup)}?{nameof(CreatePopup.ItemId)}={note.FileName}");
 
-            // Unselect the UI
             notesCollection.SelectedItem = null;
+            var result = await this.ShowPopupAsync(new CreatePopup(note.FileName));
+            ((Models.AllZamestanec)BindingContext).LoadZamestanec("");
         }
     }
 }

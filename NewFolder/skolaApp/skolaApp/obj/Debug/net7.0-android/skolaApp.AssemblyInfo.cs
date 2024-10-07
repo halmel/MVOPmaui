@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skolaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a4c3fb59d321f6cb7c2033be567212245a7f2b4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+52a40b2fccd71b3e4024b8fece92a89b4cd0b7d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("skolaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skolaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

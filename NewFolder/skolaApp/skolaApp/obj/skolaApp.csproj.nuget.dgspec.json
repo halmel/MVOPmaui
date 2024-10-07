@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj": {}
+    "C:\\Users\\TIGO\\Source\\Repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj": {
+    "C:\\Users\\TIGO\\Source\\Repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
+        "projectUniqueName": "C:\\Users\\TIGO\\Source\\Repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
         "projectName": "skolaApp",
-        "projectPath": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
+        "projectPath": "C:\\Users\\TIGO\\Source\\Repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\skolaApp.csproj",
         "packagesPath": "C:\\Users\\TIGO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\TIGO\\source\\repos\\halmel\\MVOPmaui\\NewFolder\\skolaApp\\skolaApp\\obj\\",
         "projectStyle": "PackageReference",
